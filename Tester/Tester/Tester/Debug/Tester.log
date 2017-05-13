@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\biabe\desktop\proiect\code\tester\tester\tester\source.c(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\biabe\desktop\proiect\code\tester\tester\tester\source.c(160): warning C4133: 'function': incompatible types - from 'WCHAR [260]' to 'const char *'
+c:\users\biabe\desktop\proiect\code\tester\tester\tester\source.c(164): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+c:\users\biabe\desktop\proiect\code\tester\tester\tester\source.c(130): warning C4101: 'length_of_arg': unreferenced local variable
+  Tester.vcxproj -> C:\Users\biabe\Desktop\Proiect\Code\Tester\Tester\Debug\Tester.exe
+  Tester.vcxproj -> C:\Users\biabe\Desktop\Proiect\Code\Tester\Tester\Debug\Tester.pdb (Full PDB)

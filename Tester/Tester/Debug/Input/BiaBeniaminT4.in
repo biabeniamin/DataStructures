@@ -1,0 +1,22 @@
+CreateHashTable A
+AddHashTableItem A
+3
+1 2 3
+PrintHashTable A
+DeleteHashTableItem A
+3
+PrintHashTable A
+SearchHashTableItem A
+6
+DeleteHashTable A
+CreateHashTable B
+AddHashTableItem B
+3
+4 5 6
+CreateHashTable C
+AddHashTableItem C
+3
+7 8 9
+PrintHashTable A
+PrintHashTable B
+PrintHashTable C

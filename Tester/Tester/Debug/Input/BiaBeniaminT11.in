@@ -1,0 +1,11 @@
+CreateBST A
+AddBSTItem A
+11
+0 1 2 3 4 5 -1 -2 -3 -4 -5
+PrintBST A
+DeleteBSTItem A
+5
+DeleteBSTItem A
+0
+PrintBST A
+CreateBST A

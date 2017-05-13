@@ -1,0 +1,30 @@
+CreateLinkedList A
+AddLinkedListItems A
+3
+1 2 3
+PrintLinkedList A
+PutLinkedListItem A
+1 4
+PrintLinkedList A
+GetLinkedListItem A
+1
+DeleteLinkedListItem A
+2
+PrintLinkedList A
+AddLinkedListItems A
+6
+6 7 8 9 10 -1
+PrintLinkedList A
+SearchLinkedListItem A
+10
+SortLinkedList A
+PrintLinkedList A
+CreateLinkedList B
+AddLinkedListItems B
+3
+11 12 13
+PrintLinkedList B
+MergeLinkedLists A B
+PrintLinkedList A
+DeleteLinkedList B
+PrintLinkedList B

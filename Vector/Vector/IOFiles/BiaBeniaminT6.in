@@ -1,0 +1,27 @@
+CreateBST A
+AddBSTItem A
+11
+3 1 2 10 8 7 6 11 12 10 9
+PrintBST A
+PreorderBST A
+InorderBST A
+PostorderBST A
+SearchBSTItem A
+19
+DeleteBSTItem A
+3
+PreorderBST A
+CreateBST B
+AddBSTItem B
+3
+-1 3 4
+PreorderBST B
+MergeBSTs A B
+PreorderBST A
+SearchBSTItem A
+2
+DeleteBST B
+PreorderBST B
+HightBST A
+10
+PrintBST A

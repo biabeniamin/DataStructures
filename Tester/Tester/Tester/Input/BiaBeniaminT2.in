@@ -1,0 +1,8 @@
+CreateVector h
+AddVectorItems h
+2
+-1 1
+DeleteVectorItem h
+5
+supriza greseala
+PrintVector h
